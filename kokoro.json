@@ -1,11 +1,11 @@
 {
-    "author": "Kenneth Panio",
+    "author": "Daniel Mojar",
     "sitekey": "6LcfYSEqAAAAAE6hRSZU1S2IeTSS6NTDUV65y6Ac",
-    "weblink": "",
-    "port": "",
-    "restartkey": "",
+    "weblink": "https://192.168.43.229",
+    "port": "3030",
+    "restartkey": "12345",
     "admins": [
-        "61571269923364",
+        "61554405703021",
         "61564046133266",
         "61563504007719",
         "100047505630312",
